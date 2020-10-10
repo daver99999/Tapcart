@@ -1,0 +1,14 @@
+The SD card must be formatted Fat16 or Fat32. Large SD cards are usually Not formatted that way. I recomment a SD card that is 32 GB or less.
+Copy the browser.prg to the root of the tapcart
+Copy any programs you want into a directory on the tapcart.
+
+Make sure the C64 Power is off.
+Insert the SD card into the tapcart and carefullt attach it to your C64.
+Press and Hold Shift then click Run/Stop.
+
+You will see a message to press play on tape for a second then Browser.prg will load. This program Allows you to load any programs you would like.
+
+
+The full documentation can be found at.
+
+https://github.com/ikorb/tapecart
